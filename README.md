@@ -1,8 +1,6 @@
 ## PgtD micropublication 
 
-This repository contains the analysis scripts, source data, results, and figures supporting the micropublication on *Dictyostelium discoideum* PgtD, a predicted glycosyltransferase–REJ–GAIN protein.
-
-The analyses outline PgtD domain architecture, identify homologs across the *Dictyostelium* genus, estimate gene-wide dN/dS among representative homologs, and reanalyze published developmental and cell-type expression data.
+Analysis scripts, source data, results, and figures supporting the micropublication on *Dictyostelium discoideum* PgtD, a predicted glycosyltransferase–REJ–GAIN protein.
 
 # Repository organization
 
