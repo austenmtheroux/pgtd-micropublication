@@ -1,0 +1,174 @@
+BLASTP 2.16.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: Dictyostelium discoideum
+           12,718 sequences; 6,843,544 total letters
+
+
+
+Query= PgtD_524_764
+
+Length=241
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q54XQ9 IPT/TIG domain-containing protein OS=Dictyostelium discoid...  502     6e-165
+Q54GU8 Glycosyltransferase 2-like domain-containing protein OS=Di...  57.4    8e-10 
+Q54GL6 Glycosyltransferase OS=Dictyostelium discoideum OX=44689 G...  50.8    2e-07 
+Q54Q41 Glycosyltransferase OS=Dictyostelium discoideum OX=44689 G...  49.3    4e-07 
+Q54QG0 Bifunctional glycosyltransferase pgtA OS=Dictyostelium dis...  43.9    2e-05 
+
+
+>Q54XQ9 IPT/TIG domain-containing protein OS=Dictyostelium discoideum 
+OX=44689 GN=pgtD PE=4 SV=1
+Length=2233
+
+ Score = 502 bits (1292),  Expect = 6e-165, Method: Compositional matrix adjust.
+ Identities = 241/241 (100%), Positives = 241/241 (100%), Gaps = 0/241 (0%)
+
+Query  1    FTNSIKNRKQFILKSTQQQQQQQPLVTICLTHFNRPNFLKQSIESIENQDYKNFEVILVD  60
+            FTNSIKNRKQFILKSTQQQQQQQPLVTICLTHFNRPNFLKQSIESIENQDYKNFEVILVD
+Sbjct  524  FTNSIKNRKQFILKSTQQQQQQQPLVTICLTHFNRPNFLKQSIESIENQDYKNFEVILVD  583
+
+Query  61   DGSTSIESIDYLYSLKDKFKEKGWKIIMTENKYLGAARNTAASQAKGKYLMFLDDDNYMY  120
+            DGSTSIESIDYLYSLKDKFKEKGWKIIMTENKYLGAARNTAASQAKGKYLMFLDDDNYMY
+Sbjct  584  DGSTSIESIDYLYSLKDKFKEKGWKIIMTENKYLGAARNTAASQAKGKYLMFLDDDNYMY  643
+
+Query  121  PNAISTYVSIATNTNANVVSSPHSIFNSTNTPISNDVIIQRQWVPLGPSLSVGLFKNCFG  180
+            PNAISTYVSIATNTNANVVSSPHSIFNSTNTPISNDVIIQRQWVPLGPSLSVGLFKNCFG
+Sbjct  644  PNAISTYVSIATNTNANVVSSPHSIFNSTNTPISNDVIIQRQWVPLGPSLSVGLFKNCFG  703
+
+Query  181  DANFFIEKSSFNSIGGFTEEVGVGLEDHEILAKLVIQGFKLSVSTEPLLYYRFHDSVNQM  240
+            DANFFIEKSSFNSIGGFTEEVGVGLEDHEILAKLVIQGFKLSVSTEPLLYYRFHDSVNQM
+Sbjct  704  DANFFIEKSSFNSIGGFTEEVGVGLEDHEILAKLVIQGFKLSVSTEPLLYYRFHDSVNQM  763
+
+Query  241  I  241
+            I
+Sbjct  764  I  764
+
+
+>Q54GU8 Glycosyltransferase 2-like domain-containing protein OS=Dictyostelium 
+discoideum OX=44689 GN=DDB_G0289973 PE=4 SV=1
+Length=561
+
+ Score = 57.4 bits (137),  Expect = 8e-10, Method: Compositional matrix adjust.
+ Identities = 53/201 (26%), Positives = 93/201 (46%), Gaps = 14/201 (7%)
+
+Query  25   LVTICLTHFNRPNFLKQSIESIENQDYKNFEVILVDDGSTSIESIDYLYSLKDKF-KEKG  83
+            L+++ +  +N+  +++ ++ S++   +KNFEVI+VDDGST   S  +L SL +KF  E  
+Sbjct  128  LISVIIPIYNQLKYIEYTLNSLKESTFKNFEVIVVDDGSTEWNSKKHLISLFNKFIDEMN  187
+
+Query  84   WKIIMTENKYLGAARNTAASQAKGKYLMFLDDDNYM----YPNAI-----STYVSIATNT  134
+              II   NK L  +RN     + G +++ LD D+ +    +  AI             N 
+Sbjct  188  ITIIFNRNKGLSYSRNVGIEFSTGTWILPLDSDDLIDKSFFEKAILKIEKKRLQQSQDNI  247
+
+Query  135  NANVVSSPHSIFNSTNTPISNDVIIQ-RQWVPLGPSLSVGLFKNC-FGDANFFIEKSSFN  192
+            +  VV S    F ++N       + +   W    P  +  L +N      +   +KS + 
+Sbjct  248  DNIVVISNLLRFKNSNIDDKKGYVNKVGDWKI--PKWNRNLLRNSNLLHCSALFKKSMWK  305
+
+Query  193  SIGGFTEEVGVGLEDHEILAK  213
+            ++GG+ E    G ED +   +
+Sbjct  306  NVGGYDESCWFGWEDWDFWLR  326
+
+
+>Q54GL6 Glycosyltransferase OS=Dictyostelium discoideum OX=44689 GN=pgtB 
+PE=4 SV=1
+Length=1338
+
+ Score = 50.8 bits (120),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 53/226 (23%), Positives = 96/226 (42%), Gaps = 36/226 (16%)
+
+Query  22   QQPLVTICLTHFN-RPNFLKQSIESIENQDYKNFEVILVDDGSTSIESIDYLYSLKDKFK  80
+            +QPL+TI    +N  P+  ++S  ++  Q  +NFE ++V+D S +   +D       +  
+Sbjct  223  KQPLITILTAFYNIEPDIFEESAATVFGQSLQNFEWVIVNDCSPNQTLVDLSLGKYRELA  282
+
+Query  81   EKGWKII---MTENKYLGAARNTAASQAKGKYLMFLDDDNYMYPNAISTYVSIATNTNAN  137
+            +   +I+   + +N  L  ARN     A+GKY++ LD D+ M+ N   TY+  A      
+Sbjct  283  KIDPRIVIIDLKKNVRLPGARNAGVKVARGKYIVSLDPDD-MFEN---TYLEKAV-----  333
+
+Query  138  VVSSPHSIFNSTNTPISNDVIIQRQWVPLGPSLSVGLFKNCF--GDANF---------FI  186
+                 H  +   N            W  +G +    ++KN +  GD N           +
+Sbjct  334  WFLETHKEYTLCNA-----------WT-VGFANKSYVWKNGYHNGDRNLKENQITVASVM  381
+
+Query  187  EKSSFNSIGGFTEEVGVGLEDHEILAKLVIQGFKLSVSTEPLLYYR  232
+               +   +GGF  ++  G+ED ++  ++   G       E   +YR
+Sbjct  382  RTQALRDVGGFDSKLIHGMEDWDLWIRMADNGHWGHTLEEFHFWYR  427
+
+
+>Q54Q41 Glycosyltransferase OS=Dictyostelium discoideum OX=44689 GN=pgtC 
+PE=4 SV=1
+Length=1065
+
+ Score = 49.3 bits (116),  Expect = 4e-07, Method: Compositional matrix adjust.
+ Identities = 34/111 (31%), Positives = 58/111 (52%), Gaps = 8/111 (7%)
+
+Query  23   QPLVTICLTHFNR-PNFLKQSIESIE-NQDYKNFEVILVDDGSTSIESIDYLYSLKDKFK  80
+            +P+V++ +   N  P    + +ESI   Q +K  EVIL+DDGST+ +SI    S ++  K
+Sbjct  243  KPIVSVIVPFLNTDPQQFNECMESILIRQSFKLIEVILIDDGSTNDKSIK---SYREWLK  299
+
+Query  81   EKGWKIIMTENKY---LGAARNTAASQAKGKYLMFLDDDNYMYPNAISTYV  128
+             +  +  +  N +   L  +RN     ++G Y+ F D D+ + P A+   V
+Sbjct  300  REPIRFRVIVNPFNLGLPHSRNIGVYNSRGDYIFFFDSDDILEPTALEKMV  350
+
+
+>Q54QG0 Bifunctional glycosyltransferase pgtA OS=Dictyostelium discoideum 
+OX=44689 GN=pgtA PE=1 SV=1
+Length=769
+
+ Score = 43.9 bits (102),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 59/226 (26%), Positives = 98/226 (43%), Gaps = 32/226 (14%)
+
+Query  42   SIESIENQDYKNFEVILVDDGSTSIESIDYLYSLKDKFKEKGWKIIMTENKYLGAARNTA  101
+            SI+SI  Q +K +E+ILVDDGS + E ++ L S +     +   II  ENK +  + N A
+Sbjct  34   SIDSIIEQTFKEWELILVDDGSNN-EILEQLLSKRYSTDNRIKFIINKENKGIVKSLNDA  92
+
+Query  102  A---SQAKGKYLMFLDDDNYMYPNAISTYVS-IATNTNANVVSSPHSIFNSTN-------  150
+                     KY+  +D D+  +P  + + +  + +N   +++  P  +FN+         
+Sbjct  93   ILNHCSPTSKYIARMDSDDISHPTRLQSQLKYLQSNETIDILGCPIKMFNNNKLIEILNN  152
+
+Query  151  ---------------TPISNDVIIQRQWVPLGPSLSVGLFKNCFGDANFFIEKSSFNSIG  195
+                             I+N+   +    P    L   +F NC       I K S  +I 
+Sbjct  153  NNNNNNINNNVKELINIINNEESFKFIQHPDKDILMWSMFFNCCIVHPSVIFKRSIFTIE  212
+
+Query  196  GFTEEVG--VGLEDHEI-LAKLVIQGFKLS--VSTEPLLYYRFHDS  236
+               EE      +ED+   L  L+++G  +S   S+ PLLY R H++
+Sbjct  213  HCYEENNQFPFIEDYLFWLKSLIMKGLNISNIQSSTPLLYLRKHNN  258
+
+
+
+Lambda      K        H
+   0.317    0.133    0.381 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 837793960
+
+
+  Database: Dictyostelium discoideum
+    Posted date:  Aug 28, 2026  8:15 PM
+  Number of letters in database: 6,843,544
+  Number of sequences in database:  12,718
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

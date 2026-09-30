@@ -1,0 +1,51 @@
+
+Analysis Description
+--------------------
+Fit an MG94xREV model with several selectable options frequency
+estimator and report the fit results including dN/dS ratios, and
+synonymous and non-synonymous branch lengths. v0.2 adds LRT test for
+dN/dS != 1. v0.3 adds LRT test support for dN/dS != 1 for local models.
+v0.4 adds the lineage option
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree
+
+- __Written by__: Sergei L Kosakovsky Pond
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 0.4
+
+rooted: No
+type: global
+
+>code => Universal
+gene_wide_dnds/inputs/Dictyostelium_species_tree.nwk
+gene_wide_dnds/inputs/Dictyostelium_species_tree.nwk
+
+>Loaded a multiple sequence alignment with **7** sequences, **1990** codons, and **1** partitions from `gene_wide_dnds/results/codon_alignment_primary.fasta`
+
+>frequencies => CF3x4
+
+>lrt => No
+
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+[**WARNING**] Incorrect type for the initial values object for partition 0. 0
+
+>kill-zero-lengths => Yes
+* Log(L) = -27183.58, AIC-c = 54405.19 (19 estimated parameters)
+* 1 partition. Total tree length by partition (subs/site)  0.956
+
+### Fitting Standard MG94
+* Log(L) = -24952.70, AIC-c = 49957.49 (26 estimated parameters)
+* non-synonymous/synonymous rate ratio =   0.1087 (95% profile CI   0.1041-  0.1136)
+
+### **Synonymous tree** 
+(D_giganteum_MIE6907152:0.1500871821976154,(D_dimigraforme_KAN0053237:0.06774150065553818,(D_citrinum_KAN0013107:0.03464234546253615,(D_discoideum_EAL67967:0.03675208941693888,(D_firmibasis_KAK5582903:0.05140515473383738,D_intermedium_KAN0046829:0.05511788968789576)Node10:0.02952170861225933)Node8:0.003043943800811545)Node6:0.01937206077530848)Node4:0.1413563996265145,D_purpureum_EGC36612:0.408354117643094)
+
+### **Non-synonymous tree** 
+(D_giganteum_MIE6907152:0.06264992875099851,(D_dimigraforme_KAN0053237:0.02827689964868042,(D_citrinum_KAN0013107:0.01446053182701335,(D_discoideum_EAL67967:0.01534118869917816,(D_firmibasis_KAK5582903:0.02145772366669255,D_intermedium_KAN0046829:0.02300750677899619)Node10:0.01232305726634645)Node8:0.001270613915529405)Node6:0.008086354940924292)Node4:0.05900549424292889,D_purpureum_EGC36612:0.1704566372752062)
+**Combined tree** 
+(D_giganteum_MIE6907152:0.2127371109486137,(D_dimigraforme_KAN0053237:0.09601840030421872,(D_citrinum_KAN0013107:0.04910287728954951,(D_discoideum_EAL67967:0.05209327811611706,(D_firmibasis_KAK5582903:0.07286287840052993,D_intermedium_KAN0046829:0.07812539646689196)Node10:0.04184476587860584)Node8:0.004314557716340956)Node6:0.02745841571623277)Node4:0.2003618938694432,D_purpureum_EGC36612:0.5788107549183005)
+
+### Writing detailed analysis report to `gene_wide_dnds/results/fitmg94_gene_wide_primary.json'

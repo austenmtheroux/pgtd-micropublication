@@ -1,0 +1,17 @@
+Accession	Name	Short Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms	Protein Accession	Protein Length	Matches
+cd00761	Glycosyltransferase family A (GT-A) includes diverse families of glycosyl transferases with a common GT-A type structural fold	Glyco_tranf_GTA_type	cdd	domain				q54gl6	1338	229..413
+cd03801	phosphatidyl-myo-inositol mannosyltransferase	GT4_PimA-like	cdd	domain				q54gl6	1338	492..857
+G3DSA:3.40.50.2000	Glycogen Phosphorylase B;		cathgene3d	homologous_superfamily				q54gl6	1338	501..655,845..847,656..844
+G3DSA:3.90.550.10	Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A		cathgene3d	homologous_superfamily	IPR029044			q54gl6	1338	167..458
+IPR001173	Glycosyltransferase 2-like	Glyco_trans_2-like	interpro	domain		PF13632,PF00535		q54gl6	1338	229..363
+IPR001296	Glycosyl transferase, family 1	Glyco_trans_1	interpro	domain		PF00534	GO:0016757	q54gl6	1338	668..829
+IPR028098	Glycosyltransferase subfamily 4-like, N-terminal domain	Glyco_trans_4-like_N	interpro	domain		PF13477,PF13439,PF13579		q54gl6	1338	502..659
+IPR029044	Nucleotide-diphospho-sugar transferases	Nucleotide-diphossugar_trans	interpro	homologous_superfamily		SSF53448,G3DSA:3.90.550.10		q54gl6	1338	167..458
+IPR049625	Glycosyltransferase 61, catalytic domain	Glyco_transf_61_cat	interpro	domain		PF04577	GO:0016757	q54gl6	1338	1079..1271
+PF00534	Glycosyl transferases group 1	Glycos_transf_1	pfam	domain	IPR001296			q54gl6	1338	668..829
+PF00535	Glycosyl transferase family 2	Glycos_transf_2	pfam	domain	IPR001173			q54gl6	1338	229..363
+PF04577	Glycosyltransferase 61	Glyco_transf_61	pfam	family	IPR049625			q54gl6	1338	1079..1271
+PF13439	Glycosyltransferase Family 4	Glyco_transf_4	pfam	domain	IPR028098			q54gl6	1338	502..659
+PTHR12526	Glycosyltransferase Group 1	GT_Group_1	panther	family				q54gl6	1338	496..855
+SSF53448	Nucleotide-diphospho-sugar transferases		ssf	homologous_superfamily	IPR029044			q54gl6	1338	211..443
+SSF53756	UDP-Glycosyltransferase/glycogen phosphorylase		ssf	homologous_superfamily				q54gl6	1338	493..855

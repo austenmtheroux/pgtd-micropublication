@@ -1,0 +1,13 @@
+Accession	Name	Short Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms	Protein Accession	Protein Length	Matches
+cd00761	Glycosyltransferase family A (GT-A) includes diverse families of glycosyl transferases with a common GT-A type structural fold	Glyco_tranf_GTA_type	cdd	domain				q54q41	1065	248..350
+cd03801	phosphatidyl-myo-inositol mannosyltransferase	GT4_PimA-like	cdd	domain				q54q41	1065	571..974
+G3DSA:3.40.50.2000	Glycogen Phosphorylase B;		cathgene3d	homologous_superfamily				q54q41	1065	570..761,762..794,825..969
+G3DSA:3.90.550.10	Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A		cathgene3d	homologous_superfamily	IPR029044			q54q41	1065	157..512
+IPR001173	Glycosyltransferase 2-like	Glyco_trans_2-like	interpro	domain		PF13632,PF00535		q54q41	1065	247..359
+IPR001296	Glycosyl transferase, family 1	Glyco_trans_1	interpro	domain		PF00534	GO:0016757	q54q41	1065	754..924
+IPR029044	Nucleotide-diphospho-sugar transferases	Nucleotide-diphossugar_trans	interpro	homologous_superfamily		SSF53448,G3DSA:3.90.550.10		q54q41	1065	157..512
+PF00534	Glycosyl transferases group 1	Glycos_transf_1	pfam	domain	IPR001296			q54q41	1065	754..924
+PF00535	Glycosyl transferase family 2	Glycos_transf_2	pfam	domain	IPR001173			q54q41	1065	247..359
+PTHR12526	Glycosyltransferase Group 1	GT_Group_1	panther	family				q54q41	1065	572..975
+SSF53448	Nucleotide-diphospho-sugar transferases		ssf	homologous_superfamily	IPR029044			q54q41	1065	241..499
+SSF53756	UDP-Glycosyltransferase/glycogen phosphorylase		ssf	homologous_superfamily				q54q41	1065	572..796,825..984

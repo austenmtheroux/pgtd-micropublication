@@ -1,0 +1,10 @@
+software	version_or_identifier
+Python	Python 3.12.2
+Perl	5.32.1
+MAFFT	v7.526 (2024/Apr/26)
+HyPhy	HYPHY 2.5.78(MP) for Darwin on arm64 ARM Neon SIMD zlib (v1.2.12)
+PAL2NAL_SHA256	795852c60f31165efa472a2ca1267e8cfd6f5508decd91f1f2653d179697d9f2
+FitMG94_analysis_version	0.4
+FitMG94.bf_SHA256	d03b04d93e78e514b7b9005f1e78b371b73e96e44866e108b449be8c4c13e942
+hyphy-analyses_commit	42a3fd041399a17b9bc9ccb64f31f2a2fb764972
+hyphy-analyses_status	tracked_files_clean

@@ -1,0 +1,13 @@
+metric	value
+protein_sequence_count	7
+cds_sequence_count	7
+protein_cds_identifiers_match	true
+cds_translation_match	true
+tree_tip_identifiers_match	true
+protein_alignment_columns	2331
+gap_columns_removed	304
+gap_filtered_codons	2027
+primary_alignment_codons	1990
+terminal_codons_removed	37
+ambiguous_nucleotides	0
+internal_stop_codons	0

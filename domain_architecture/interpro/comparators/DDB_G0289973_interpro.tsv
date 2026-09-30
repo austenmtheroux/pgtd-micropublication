@@ -1,0 +1,17 @@
+Accession	Name	Short Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms	Protein Accession	Protein Length	Matches
+cd00761	Glycosyltransferase family A (GT-A) includes diverse families of glycosyl transferases with a common GT-A type structural fold	Glyco_tranf_GTA_type	cdd	domain				q54gu8	561	131..334
+G3DSA:3.90.550.10	Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A		cathgene3d	homologous_superfamily	IPR029044			q54gu8	561	58..380
+IPR001173	Glycosyltransferase 2-like	Glyco_trans_2-like	interpro	domain		PF13632,PF00535		q54gu8	561	130..252
+IPR029044	Nucleotide-diphospho-sugar transferases	Nucleotide-diphossugar_trans	interpro	homologous_superfamily		SSF53448,G3DSA:3.90.550.10		q54gu8	561	58..380
+IPR050834	Glycosyltransferase 2 family enzymes	Glycosyltransf_2	interpro	family		PTHR43685		q54gu8	561	101..542
+PF00535	Glycosyl transferase family 2	Glycos_transf_2	pfam	domain	IPR001173			q54gu8	561	130..252
+PTHR43685	Glycosyltransferase 2 family enzymes	Glycosyltransf_2	panther	family	IPR050834			q54gu8	561	101..542
+SSF53448	Nucleotide-diphospho-sugar transferases		ssf	homologous_superfamily	IPR029044			q54gu8	561	124..342
+G3DSA:3.90.550.10	Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A		interpro-n	homologous_superfamily	IPR029044			Q54GU8	561	52..385
+SSF53448	Nucleotide-diphospho-sugar transferases		interpro-n	homologous_superfamily	IPR029044			Q54GU8	561	128..342
+PF00535	Glycosyl transferase family 2	Glycos_transf_2	interpro-n	domain	IPR001173			Q54GU8	561	130..237
+cd00761	Glycosyltransferase family A (GT-A) includes diverse families of glycosyl transferases with a common GT-A type structural fold	Glyco_tranf_GTA_type	interpro-n	domain				Q54GU8	561	131..330
+PTHR43685	Glycosyltransferase 2 family enzymes	Glycosyltransf_2	interpro-n	family	IPR050834			Q54GU8	561	85..378
+CYTOPLASMIC_DOMAIN			phobius					Q54GU8	561	1..6,62..561
+TRANSMEMBRANE			phobius					Q54GU8	561	7..29,41..61
+NON_CYTOPLASMIC_DOMAIN			phobius					Q54GU8	561	30..40

@@ -1,0 +1,41 @@
+BLAST_rank	BLAST_primary_accession	All_accessions_in_hit	Organism	Hit_length_aa	Max_bit_score	Total_bit_score	E_value	Query_cover_percent	Percent_identity_best_HSP	Full_length_candidate_ge90pct_query_cover	Selected_representative	Selected_FASTA_ID	Curation_note
+1	XP_641971.1	XP_641971.1; EAL67967.1; KAM9949009.1	Dictyostelium discoideum AX4	2233	3657.84	3862.367	0	93.46	100	Yes	Yes	D_discoideum_EAL67967	Reference species representative; GenBank ID EAL67967 used instead of primary BLAST ID
+2	KAM9952959.1	KAM9952959.1	Dictyostelium discoideum	2234	3549.99	3741.42	0	93.46	97.62	Yes	No		Not retained - alternate record/strain for species
+3	KAM9963093.1	KAM9963093.1	Dictyostelium discoideum	2230	3539.97	3732.17	0	93.46	97.21	Yes	No		Not retained - alternate record/strain for species
+4	KAM9989402.1	KAM9989402.1	Dictyostelium cf. discoideum	2222	3531.11	3716.762	0	93.46	96.53	Yes	No		Not retained - alternate record/strain for species
+5	KAM9982628.1	KAM9982628.1	Dictyostelium cf. discoideum	2215	3523.79	3706.36	0	93.46	96.37	Yes	No		Not retained - alternate record/strain for species
+6	KAN0013107.1	KAN0013107.1	Dictyostelium citrinum	2209	3412.08	3601.199	0	93.46	92.69	Yes	Yes	D_citrinum_KAN0013107	Selected as representative
+7	KAN0006764.1	KAN0006764.1	Dictyostelium citrinum	2207	3408.62	3597.739	0	93.46	92.58	Yes	No		Not retained - alternate record/strain for species
+8	KAN0046829.1	KAN0046829.1	Dictyostelium intermedium	2207	3407.08	3407.08	0	96.91	88.01	Yes	Yes	D_intermedium_KAN0046829	Selected as representative
+9	KAN0031735.1	KAN0031735.1	Dictyostelium citrinum	2200	3405.92	3591.957	0	93.46	92.42	Yes	No		Not retained - alternate record/strain for species
+10	KAK5582903.1	KAK5582903.1	Dictyostelium firmibasis	2194	3399.76	3399.76	0	96.87	87.68	Yes	Yes	D_firmibasis_KAK5582903	Selected as representative
+11	KAN0053237.1	KAN0053237.1	Dictyostelium dimigraforme	2198	3059.24	3241.81	0	93.46	83.28	Yes	Yes	D_dimigraforme_KAN0053237	Selected as representative
+12	MIE6907152.1	MIE6907152.1	Dictyostelium giganteum	2220	2402.09	2532.658	0	92.88	65.66	Yes	Yes	D_giganteum_MIE6907152	Selected as representative
+13	XP_003286850.1	XP_003286850.1; EGC36612.1	Dictyostelium purpureum	2102	1893.24	1992.993	0	91.49	54.69	Yes	Yes	D_purpureum_EGC36612	Selected as representative; GenBank ID EGC36612 used instead of primary BLAST ID
+14	AAB69631.1	AAB69631.1	Dictyostelium discoideum	205	174.866	174.866	1.77E-48	6.67	100	No	No		Excluded (<90% query coverage)
+15	XP_003293999.1	XP_003293999.1; EGC29470.1	Dictyostelium purpureum	1201	178.333	178.333	9.28E-44	26.74	27.89	No	No		Excluded (<90% query coverage)
+16	MIE6911594.1	MIE6911594.1	Dictyostelium giganteum	1496	152.14	152.14	1.19E-35	26.6	27.03	No	No		Excluded (<90% query coverage)
+17	KAM9954340.1	KAM9954340.1	Dictyostelium discoideum	1303	149.443	149.443	7.43E-35	25.21	28.3	No	No		Excluded (<90% query coverage)
+18	XP_643877.1	XP_643877.1; EAL70079.1; KAM9945038.1	Dictyostelium discoideum AX4	1313	148.673	148.673	1.14E-34	25.21	28.28	No	No		Excluded (<90% query coverage)
+19	KAM9967234.1	KAM9967234.1	Dictyostelium discoideum	1313	148.673	148.673	1.26E-34	25.21	28.68	No	No		Excluded (<90% query coverage)
+20	KAN0045066.1	KAN0045066.1	Dictyostelium dimigraforme	1367	147.517	147.517	3.08E-34	18.5	30.8	No	No		Excluded (<90% query coverage)
+21	KAK5576878.1	KAK5576878.1	Dictyostelium firmibasis	1301	145.206	145.206	1.35E-33	16.39	31.35	No	No		Excluded (<90% query coverage)
+22	KAN0049096.1	KAN0049096.1	Dictyostelium intermedium	1388	97.826	97.826	3.99E-19	8.33	33.64	No	No		Excluded (<90% query coverage)
+23	KAN0021403.1	KAN0021403.1	Dictyostelium citrinum	1117	91.278	91.278	3.46E-17	8.33	31.8	No	No		Excluded (<90% query coverage)
+24	KAN0037822.1	KAN0037822.1	Dictyostelium citrinum	1405	91.278	91.278	4.12E-17	8.33	31.8	No	No		Excluded (<90% query coverage)
+25	KAN0018567.1	KAN0018567.1	Dictyostelium citrinum	1558	90.893	90.893	5.33E-17	8.33	31.8	No	No		Excluded (<90% query coverage)
+26	KAM9997313.1	KAM9997313.1	Dictyostelium cf. discoideum	1306	90.508	90.508	6.41E-17	8.28	31.02	No	No		Excluded (<90% query coverage)
+27	KAM9980540.1	KAM9980540.1	Dictyostelium cf. discoideum	1332	88.967	88.967	1.76E-16	8.33	30.88	No	No		Excluded (<90% query coverage)
+28	KAM9975954.1	KAM9975954.1	Dictyostelium discoideum	373	86.27	86.27	1.89E-16	4.88	39.64	No	No		Excluded (<90% query coverage)
+29	KAN0024008.1	KAN0024008.1	Dictyostelium citrinum	592	59.692	59.692	1.21E-07	8.46	27.67	No	No		Excluded (<90% query coverage)
+30	KAK5579460.1	KAK5579460.1	Dictyostelium firmibasis	580	58.151	58.151	3.04E-07	4.16	35.11	No	No		Excluded (<90% query coverage)
+31	KAN0016991.1	KAN0016991.1	Dictyostelium citrinum	563	58.151	58.151	3.57E-07	4.16	36.17	No	No		Excluded (<90% query coverage)
+32	KAN0019360.1	KAN0019360.1	Dictyostelium citrinum	558	58.151	58.151	3.73E-07	4.16	36.17	No	No		Excluded (<90% query coverage)
+33	KAM9995287.1	KAM9995287.1	Dictyostelium cf. discoideum	594	57.766	57.766	4.90E-07	4.16	36.17	No	No		Excluded (<90% query coverage)
+34	KAN0038477.1	KAN0038477.1	Dictyostelium dimigraforme	596	56.995	56.995	6.80E-07	4.7	33.96	No	No		Excluded (<90% query coverage)
+35	KAM9988604.1	KAM9988604.1	Dictyostelium cf. discoideum	598	56.61	56.61	9.02E-07	4.16	35.11	No	No		Excluded (<90% query coverage)
+36	XP_635971.1	XP_635971.1; EAL62499.1	Dictyostelium discoideum AX4	561	55.84	55.84	1.54E-06	4.16	35.11	No	No		Excluded (<90% query coverage)
+37	KAM9970388.1	KAM9970388.1	Dictyostelium discoideum	565	55.84	55.84	1.72E-06	4.16	35.11	No	No		Excluded (<90% query coverage)
+38	KAM9974862.1	KAM9974862.1	Dictyostelium discoideum	570	55.84	55.84	1.75E-06	4.16	35.11	No	No		Excluded (<90% query coverage)
+39	KAM9947952.1	KAM9947952.1	Dictyostelium discoideum	550	55.84	55.84	1.78E-06	4.16	35.11	No	No		Excluded (<90% query coverage)
+40	KAN0057123.1	KAN0057123.1	Dictyostelium intermedium	591	55.069	55.069	3.42E-06	4.16	35.11	No	No		Excluded (<90% query coverage)

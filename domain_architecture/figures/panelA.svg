@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 540 136.8">
+  <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: #1a1a1a;
+      }
+
+      .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12 {
+        isolation: isolate;
+      }
+
+      .st3, .st4, .st10, .st12 {
+        font-family: SourceSans3-Regular, 'Source Sans 3';
+      }
+
+      .st3, .st7, .st8, .st9, .st11 {
+        font-size: 7.11px;
+      }
+
+      .st13 {
+        fill: #9aa5b1;
+      }
+
+      .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21 {
+        stroke-miterlimit: 10;
+      }
+
+      .st13, .st14, .st15, .st17, .st18, .st19, .st22, .st20, .st21 {
+        stroke: #333;
+      }
+
+      .st13, .st14, .st15, .st17, .st18, .st19, .st20, .st21 {
+        stroke-width: .53px;
+      }
+
+      .st4 {
+        font-size: 6.83px;
+      }
+
+      .st5 {
+        font-family: SourceSans3-Bold, 'Source Sans 3';
+        font-size: 8.54px;
+      }
+
+      .st5, .st7 {
+        font-weight: 700;
+      }
+
+      .st1 {
+        stroke: #737373;
+        stroke-width: .43px;
+      }
+
+      .st1, .st2, .st22 {
+        stroke-linejoin: round;
+      }
+
+      .st14 {
+        fill: #b8574f;
+      }
+
+      .st15 {
+        fill: #3f4a56;
+      }
+
+      .st23 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st24 {
+        fill: #c9c2b8;
+      }
+
+      .st16 {
+        fill: #feea2c;
+        stroke: #231f20;
+        stroke-width: .5px;
+      }
+
+      .st7 {
+        fill: #4d4d4d;
+        font-family: SourceSans3-BoldIt, 'Source Sans 3';
+      }
+
+      .st7, .st8, .st9, .st11 {
+        font-style: italic;
+      }
+
+      .st17 {
+        fill: #e0a32e;
+      }
+
+      .st8, .st9, .st11 {
+        font-family: SourceSans3-It, 'Source Sans 3';
+      }
+
+      .st25 {
+        fill: #e4e8eb;
+      }
+
+      .st2 {
+        stroke: #595959;
+        stroke-width: 1.92px;
+      }
+
+      .st2, .st22 {
+        stroke-linecap: round;
+      }
+
+      .st18 {
+        fill: #534ab7;
+      }
+
+      .st19 {
+        fill: #8c6d4f;
+      }
+
+      .st9 {
+        letter-spacing: -.02em;
+      }
+
+      .st10 {
+        font-size: 6.54px;
+      }
+
+      .st22 {
+        fill: #362f14;
+        stroke-width: .58px;
+      }
+
+      .st20 {
+        fill: #2a7f62;
+      }
+
+      .st26 {
+        clip-path: url(#clippath);
+      }
+
+      .st21 {
+        fill: #7fbf9e;
+      }
+
+      .st11 {
+        letter-spacing: 0em;
+      }
+
+      .st12 {
+        font-size: 7.4px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="540" height="136.8"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" x="12.52" y="8.89" width="524.06" height="128.83"/>
+    </clipPath>
+  </defs>
+  <rect class="st0" width="540" height="136.8"/>
+  <g class="st26">
+    <rect class="st0" width="540" height="136.8"/>
+  </g>
+  <g class="st23">
+    <g>
+      <rect class="st25" x="446.88" y="18.09" width="5.22" height="104.29"/>
+      <line class="st2" x1="27.08" y1="39.56" x2="512.32" y2="39.56"/>
+      <line class="st2" x1="137.73" y1="100.91" x2="452.75" y2="100.91"/>
+      <rect class="st24" x="452.97" y="34.96" width="16.09" height="9.2"/>
+      <rect class="st24" x="481.66" y="34.96" width="5.44" height="9.2"/>
+      <rect class="st24" x="496.66" y="34.96" width="15.65" height="9.2"/>
+      <rect class="st21" x="50.77" y="30.36" width="85" height="18.4"/>
+      <rect class="st20" x="140.78" y="30.36" width="52.18" height="18.4"/>
+      <rect class="st13" x="204.26" y="30.36" width="16.09" height="18.4"/>
+      <rect class="st18" x="248.83" y="30.36" width="111.74" height="18.4"/>
+      <rect class="st17" x="418.18" y="30.36" width="26.52" height="18.4"/>
+      <rect class="st19" x="143.39" y="91.7" width="7.83" height="18.4"/>
+      <rect class="st14" x="151.65" y="91.7" width="27.18" height="18.4"/>
+      <rect class="st14" x="180.35" y="91.7" width="29.78" height="18.4"/>
+      <rect class="st18" x="245.78" y="91.7" width="101.96" height="18.4"/>
+      <rect class="st17" x="414.49" y="91.7" width="28.48" height="18.4"/>
+      <rect class="st15" x="446.88" y="30.36" width="5.22" height="18.4"/>
+      <rect class="st15" x="446.88" y="91.7" width="4.57" height="18.4"/>
+      <g class="st6">
+        <text class="st12" transform="translate(79.23 26.68)"><tspan x="0" y="0">GT-B fold</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(153 26.68)"><tspan x="0" y="0">GT-A fold</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(207.34 26.68)"><tspan x="0" y="0">IPT</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(298.87 26.68)"><tspan x="0" y="0">REJ</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(420.46 26.68)"><tspan x="0" y="0">GAIN-B</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(141.24 88.02)"><tspan x="0" y="0">EGF</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(159.41 88.02)"><tspan x="0" y="0">CTL</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(189.41 88.02)"><tspan x="0" y="0">CTL</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(290.93 88.02)"><tspan x="0" y="0">REJ</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(417.75 88.02)"><tspan x="0" y="0">GAIN-B</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st12" transform="translate(444.82 15.57)"><tspan x="0" y="0">TM</tspan></text>
+      </g>
+      <line class="st1" x1="449.49" y1="19.31" x2="449.49" y2="29.13"/>
+      <g class="st6">
+        <text class="st10" transform="translate(457.44 26.68)"><tspan x="0" y="0">predicted disorder</tspan></text>
+      </g>
+      <polygon class="st22" points="28.93 42.66 31.61 38.01 26.24 38.01 28.93 42.66"/>
+      <polygon class="st22" points="140.34 104.01 143.03 99.35 137.65 99.35 140.34 104.01"/>
+      <g class="st6">
+        <text class="st4" transform="translate(25.17 26.68)"><tspan x="0" y="0">SP</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st10" transform="translate(430.23 47.31)"><tspan x="0" y="0">GPS</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st10" transform="translate(428.61 108.33)"><tspan x="0" y="0">GPS</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st5" transform="translate(27.08 59.23)"><tspan x="0" y="0">PgtD</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st5" transform="translate(137.73 120.58)"><tspan x="0" y="0">suREJ1</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st8" transform="translate(27.08 66.31)"><tspan x="0" y="0">D.</tspan></text>
+        <text class="st11" transform="translate(33.02 66.31)"><tspan x="0" y="0"> </tspan></text>
+        <text class="st8" transform="translate(34.36 66.31)"><tspan x="0" y="0">discoideum</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st8" transform="translate(137.73 127.66)"><tspan x="0" y="0">S.</tspan></text>
+        <text class="st9" transform="translate(143.05 127.66)"><tspan x="0" y="0"> </tspan></text>
+        <text class="st8" transform="translate(144.33 127.66)"><tspan x="0" y="0">purpuratus</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st3" transform="translate(27.08 73.67)"><tspan x="0" y="0">2233 aa</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st3" transform="translate(137.73 135.02)"><tspan x="0" y="0">1450 aa</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st7" transform="translate(32.73 14.29)"><tspan x="0" y="0">luminal/extracellular</tspan></text>
+      </g>
+      <g class="st6">
+        <text class="st7" transform="translate(485.46 14.29)"><tspan x="0" y="0">cytosolic</tspan></text>
+      </g>
+      <polygon class="st16" points="448.44 40.92 444.85 40.92 443.7 44.33 442.59 40.91 439 40.87 441.9 38.76 440.83 35.33 443.74 37.44 446.67 35.36 445.56 38.78 448.44 40.92"/>
+      <polygon class="st16" points="446.64 101.83 443.05 101.83 441.9 105.24 440.79 101.82 437.2 101.78 440.1 99.67 439.03 96.24 441.94 98.35 444.87 96.27 443.76 99.69 446.64 101.83"/>
+    </g>
+  </g>
+</svg>

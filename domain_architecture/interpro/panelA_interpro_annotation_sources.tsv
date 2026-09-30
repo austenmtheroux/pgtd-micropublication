@@ -1,0 +1,18 @@
+protein	feature	residues_drawn	source_database	signature
+D. discoideum PgtD	Signal peptide	19-Jan	Phobius	
+D. discoideum PgtD	GT-B fold	110-501	Gene3D	G3DSA:3.40.50.2000 (hits 110-313; 321-501)
+D. discoideum PgtD	GT-A fold	524-764	Gene3D	G3DSA:3.90.550.10
+D. discoideum PgtD	IPT/TIG	816-890	Pfam	PF01833
+D. discoideum PgtD	REJ	1021-1535	Pfam	"PF02010 (hits 1021-1107; 1129-1535, merged)"
+D. discoideum PgtD	GAIN-B	1800-1922	Pfam	PF01825
+D. discoideum PgtD	GPS HLT motif	1916-1918	Sequence motif 	
+D. discoideum PgtD	Transmembrane helix	1932-1956	Phobius	
+D. discoideum PgtD	Predicted disorder	1960-2034; 2092-2117; 2161-2233	MobiDB-lite	
+S. purpuratus suREJ1	Signal peptide	26-Jan	Phobius	
+S. purpuratus suREJ1	EGF-like	27-63	ProSiteProfiles	PS50026
+S. purpuratus suREJ1	C-type lectin	65-190	SUPERFAMILY	SSF56436
+S. purpuratus suREJ1	C-type lectin	197-334	SUPERFAMILY	SSF56436
+S. purpuratus suREJ1	REJ	498-967	Pfam	PF02010
+S. purpuratus suREJ1	GAIN-B	1274-1405	ProSiteProfiles	PS50221
+S. purpuratus suREJ1	GPS HLT motif	1387-1389	Sequence motif	
+S. purpuratus suREJ1	Transmembrane helix	1423-1444	Phobius	

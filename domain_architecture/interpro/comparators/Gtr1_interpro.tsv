@@ -1,0 +1,13 @@
+Accession	Name	Short Name	Source Database	Type	Integrated Into	Integrated Signatures	GO Terms	Protein Accession	Protein Length	Matches
+G3DSA:3.40.50.2000	Glycogen Phosphorylase B;		cathgene3d	homologous_superfamily				q86iu8	1313	158..205,247..388,413..593
+G3DSA:3.40.50.300	P-loop containing nucleotide triphosphate hydrolases		cathgene3d	homologous_superfamily	IPR027417			q86iu8	1313	1016..1157,1193..1312
+IPR000863	Sulfotransferase domain	Sulfotransferase_dom	interpro	domain		PF00685	GO:0008146	q86iu8	1313	1021..1296
+IPR001296	Glycosyl transferase, family 1	Glyco_trans_1	interpro	domain		PF00534	GO:0016757	q86iu8	1313	430..595
+IPR027417	P-loop containing nucleoside triphosphate hydrolase	P-loop_NTPase	interpro	homologous_superfamily		G3DSA:3.40.50.300,SSF52540		q86iu8	1313	1016..1312
+IPR029044	Nucleotide-diphospho-sugar transferases	Nucleotide-diphossugar_trans	interpro	homologous_superfamily		SSF53448,G3DSA:3.90.550.10		q86iu8	1313	640..916
+PF00534	Glycosyl transferases group 1	Glycos_transf_1	pfam	domain	IPR001296			q86iu8	1313	430..595
+PF00685	Sulfotransferase domain	Sulfotransfer_1	pfam	domain	IPR000863			q86iu8	1313	1021..1296
+PTHR14312	Basic-leucine zipper (bZIP) transcription factors	bZIP_transcription_factors	panther	family				q86iu8	1313	11..1291
+SSF52540	P-loop containing nucleoside triphosphate hydrolases		ssf	homologous_superfamily	IPR027417			q86iu8	1313	1020..1147,1199..1308
+SSF53448	Nucleotide-diphospho-sugar transferases		ssf	homologous_superfamily	IPR029044			q86iu8	1313	640..778,829..916
+SSF53756	UDP-Glycosyltransferase/glycogen phosphorylase		ssf	homologous_superfamily				q86iu8	1313	169..603
